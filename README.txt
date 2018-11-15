@@ -12,4 +12,4 @@ Aingty		    aingtyeung@yahoo.com      	    562-735-7936
 
 
 
-WOOOOO!!!! We finished!!! Thank you to everyone involved!!!
+Ehandy.org is a....
