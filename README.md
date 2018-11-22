@@ -3,7 +3,7 @@
 
 GROUP CONTACT INFO:
 
-Name:<tab><tab><tab>Email:<tab><tab><tab><tab><tab><tab>Phone:
+Name:<p>Email:</p><p>Phone:</p>
 Brian<tab><tab><tab>brianthongpham@gmail.com<tab><tab><tab><tab><tab><tab>657-204-2630
 Kunal<tab><tab><tab>kunal1005@yahoo.com<tab><tab><tab><tab><tab><tab>562-308-7579
 Matthew<tab><tab><tab>tokamakuyokuu@gmail.com<tab><tab><tab><tab><tab><tab>657-666-0273
