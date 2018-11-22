@@ -1,6 +1,9 @@
 # E-handy
 
 
+Ehandy.org is a website designed to help users find their nearest home improvement service.
+
+
 GROUP CONTACT INFO:
 
 |Name:        |Email:                       |Phone:        |
@@ -13,4 +16,3 @@ GROUP CONTACT INFO:
 
 
 
-Ehandy.org is a website designed to 
