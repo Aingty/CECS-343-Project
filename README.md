@@ -77,14 +77,15 @@ Finally, in our server side, we used Linux Server, Apache2 and MySQL. Because we
 ![](images/ehandy6.png?raw=true)
 
 
+## Further Documents
+All other documents about this web application can be found [here](https://drive.google.com/drive/folders/0B6coUJeIfI8SQW9oQTVsMFJwNjQ?usp=sharing).
 
-GROUP CONTACT INFO:
+### Group Member Info
 
 |Name:        |Email:                       |Phone:        |
 |-------------|-----------------------------|--------------|
 |Brian        |brianthongpham@gmail.com     |657-204-2630  |
 |Kunal        |kunal1005@yahoo.com          |562-308-7579  |
-|Matthew      |tokamakuyokuu@gmail.com      |657-666-0273  |
 |Christopher  |ChristopherBThai@gmail.com   |714-624-9903  |
 |Aingty       |aingtyeung@yahoo.com         |562-735-7936  |
 
