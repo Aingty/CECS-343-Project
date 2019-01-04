@@ -64,7 +64,7 @@ Finally, in our server side, we used Linux Server, Apache2 and MySQL. Because we
 
 ## Screenshots
 
-![TitlePage](https://drive.google.com/file/d/1mkgbOCtvfSyTpIcBN991_NtSvdHl1XAc/view?usp=sharing)
+![TitlePage](https://imgur.com/gallery/j2D5NYT)
 
 GROUP CONTACT INFO:
 
