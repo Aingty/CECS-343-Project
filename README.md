@@ -34,6 +34,7 @@ Finally, in our server side, we used Linux Server, Apache2 and MySQL. Because we
 
 
 GROUP CONTACT INFO:
+
 |Name:        |Email:                       |Phone:        |
 |-------------|-----------------------------|--------------|
 |Brian        |brianthongpham@gmail.com     |657-204-2630  |
